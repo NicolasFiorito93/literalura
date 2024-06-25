@@ -5,7 +5,6 @@ Literalura es una aplicación de consola desarrollada en Java utilizando Spring 
 ## Tabla de Contenidos
 
 - [Uso](#uso)
-- [Estructura del Proyecto](#estructura-del-proyecto)
 - [Funciones](#funciones)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 
@@ -21,7 +20,7 @@ Una vez que la aplicación esté en ejecución, se presentará un menú en la co
 6. Mostrar cuantos libros en Español registrados
 0. Salir
 
-### Funciones Detalladas
+## Funciones Detalladas
 
 1. **Buscar Libros:**
    Permite buscar libros en la API de Gutendex. Si el libro no está en la base de datos, se guarda junto con su autor.
