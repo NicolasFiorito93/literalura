@@ -5,7 +5,7 @@ Literalura es una aplicación de consola desarrollada en Java utilizando Spring 
 ## Tabla de Contenidos
 
 - [Uso](#uso)
-- [Funciones](#funciones)
+- [Funciones Detalladas](#funciones)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 
 ## Uso
